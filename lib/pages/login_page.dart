@@ -50,7 +50,7 @@ class _LoginPageState extends State<LoginPage> {
                       SizedBox(height: 52.h),
                       const Center(
                         child: Text(
-                          "Login Form",
+                          "Login Form for website",
                           style: TextStyle(
                             fontFamily: 'SourceSansPro',
                             color: Colors.black,
